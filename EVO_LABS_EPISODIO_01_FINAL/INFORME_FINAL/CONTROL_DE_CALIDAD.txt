@@ -1,0 +1,9 @@
+EVO LABS PC — EPISODIO 01
+Orden comprobado en el montaje: 01 Intro original → 02 Compuertas (movimiento original) → 03 Pasillo y llegada (continuación cronológica original) → 04 Presentación hardware original, corregida.
+Duración: 56.23 s; resolución de salida: 1920×1080; 30 fps; H.264; audio AAC estéreo 48 kHz.
+Medición de mezcla: -17.1 LUFS integrados; pico verdadero -1.5 dBFS.
+Intel UHD presentado explícitamente como gráficos integrados; SSD Kingston 480 GB mostrado con su fotografía aportada.
+Procesador y RAM representados con las fotos proporcionadas; PN64 mostrado con ASUS-PN64.jpg.
+Los originales del repositorio permanecen intactos; copias empleadas en RECURSOS_UTILIZADOS/ORIGINALES.
+Verificación técnica: render completo decodificado por FFmpeg sin errores. Revisar visualmente en un reproductor antes de publicar.
+Nota de continuidad: 02-compuertas.mp4 combina apertura y pasillo e inserta una animación negra de logotipo; para respetar la orden narrativa, se omitió esa inserción y se montó cronológicamente el tramo de compuertas fuente 2.0-4.0 s seguido del recorrido y llegada 4.0-10.14 s.
