@@ -1,0 +1,9 @@
+EVO LABS PC — EPISODIO 01 — V2 SIN PRESENTACIÓN DE HARDWARE
+Escenas conservadas: intro original → apertura original de compuertas → recorrido y llegada completos.
+Se retiraron por completo 03-PresentacionPC, las tarjetas de componentes y sus locuciones.
+Duración: 18.13s; MP4/H.264; 1920×1080; 30fps; AAC estéreo 48kHz.
+La voz se procesó con filtro pasa-altos suave, EQ de presencia, compresión ligera y normalización por línea.
+Medición final de audio: -15.9 LUFS integrados; pico verdadero -3.9 dBFS.
+Se reescaló con Lanczos y se aplicó nitidez moderada; H.264 CRF 15. El detalle original sigue limitado por las fuentes, en particular el video 720p de intro.
+Verificación: decodificación integral del archivo exportado sin errores y revisión visual de puntos de corte.
+Una escucha subjetiva completa en auriculares/altavoces es recomendable antes de publicar.
